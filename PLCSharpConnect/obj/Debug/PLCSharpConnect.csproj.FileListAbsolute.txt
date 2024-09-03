@@ -1,0 +1,21 @@
+G:\Shanu\Shanu Projects\Articles\ShanuPLCCommunication\PLCSharpConnect\PLCSharpConnect\bin\Debug\PLCSharpConnect.exe
+G:\Shanu\Shanu Projects\Articles\ShanuPLCCommunication\PLCSharpConnect\PLCSharpConnect\bin\Debug\PLCSharpConnect.pdb
+G:\Shanu\Shanu Projects\Articles\ShanuPLCCommunication\PLCSharpConnect\PLCSharpConnect\bin\Debug\MelsecPLC.dll
+G:\Shanu\Shanu Projects\Articles\ShanuPLCCommunication\PLCSharpConnect\PLCSharpConnect\bin\Debug\MelsecPLC.xml
+G:\Shanu\Shanu Projects\Articles\ShanuPLCCommunication\PLCSharpConnect\PLCSharpConnect\obj\Debug\PLCSharpConnect.Form1.resources
+G:\Shanu\Shanu Projects\Articles\ShanuPLCCommunication\PLCSharpConnect\PLCSharpConnect\obj\Debug\PLCSharpConnect.Properties.Resources.resources
+G:\Shanu\Shanu Projects\Articles\ShanuPLCCommunication\PLCSharpConnect\PLCSharpConnect\obj\Debug\PLCSharpConnect.csproj.GenerateResource.Cache
+G:\Shanu\Shanu Projects\Articles\ShanuPLCCommunication\PLCSharpConnect\PLCSharpConnect\obj\Debug\PLCSharpConnect.exe
+G:\Shanu\Shanu Projects\Articles\ShanuPLCCommunication\PLCSharpConnect\PLCSharpConnect\obj\Debug\PLCSharpConnect.pdb
+G:\Shanu\Shanu Projects\Articles\ShanuPLCCommunication\PLCSharpConnect\PLCSharpConnect\obj\Debug\PLCSharpConnect.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\EAP\PLC\PLCSharpConnect\PLCSharpConnect\bin\Debug\PLCSharpConnect.exe
+C:\Users\Joe\Desktop\EAP\PLC\PLCSharpConnect\PLCSharpConnect\bin\Debug\PLCSharpConnect.pdb
+C:\Users\Joe\Desktop\EAP\PLC\PLCSharpConnect\PLCSharpConnect\bin\Debug\MelsecPLC.xml
+C:\Users\Joe\Desktop\EAP\PLC\PLCSharpConnect\PLCSharpConnect\obj\Debug\PLCSharpConnect.csproj.AssemblyReference.cache
+C:\Users\Joe\Desktop\EAP\PLC\PLCSharpConnect\PLCSharpConnect\obj\Debug\PLCSharpConnect.Form1.resources
+C:\Users\Joe\Desktop\EAP\PLC\PLCSharpConnect\PLCSharpConnect\obj\Debug\PLCSharpConnect.Properties.Resources.resources
+C:\Users\Joe\Desktop\EAP\PLC\PLCSharpConnect\PLCSharpConnect\obj\Debug\PLCSharpConnect.csproj.GenerateResource.cache
+C:\Users\Joe\Desktop\EAP\PLC\PLCSharpConnect\PLCSharpConnect\obj\Debug\PLCSharpConnect.csproj.CoreCompileInputs.cache
+C:\Users\Joe\Desktop\EAP\PLC\PLCSharpConnect\PLCSharpConnect\obj\Debug\PLCSharpConnect.csproj.CopyComplete
+C:\Users\Joe\Desktop\EAP\PLC\PLCSharpConnect\PLCSharpConnect\obj\Debug\PLCSharpConnect.exe
+C:\Users\Joe\Desktop\EAP\PLC\PLCSharpConnect\PLCSharpConnect\obj\Debug\PLCSharpConnect.pdb
